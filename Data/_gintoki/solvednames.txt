@@ -1,0 +1,519 @@
+Substring Game in the Lesson
+BerSU Ball
+New Year Transportation
+Chat room
+Chocolate Bunny
+Floor and Mod
+Standard Free2play
+Crazy Computer
+Prime Subtraction
+Alternating Subsequence
+Odd Selection
+Binary Table (Easy Version)
+Move Brackets
+Fence
+Way Too Long Words
+Maria Breaks the Self-isolation
+Competitive Programmer
+Petya and Strings
+Min Cost String
+Karen and Coffee
+Obtain Two Zeroes
+New Password
+Skyscrapers (easy version)
+Important Exam
+Decrease the Sum of Digits
+Suborrays
+Just Eat It!
+Game
+Chips Moving
+Again?
+Insomnia cure
+Dead Pixel
+Valerii Against Everyone
+Nastya and Rice
+Sale
+TV Subscriptions (Hard Version)
+Points on Line
+Different Divisors
+Yet Another Dividing into Teams
+Rational Resistance
+Helpful Maths
+Win or Freeze
+Arrival of the General
+Two Regular Polygons
+Close Tuples (easy version)
+Make Them Odd
+Nastya and Strange Generator
+Almost Equal
+Queue
+Night at the Museum
+Omkar and Circle
+Divide it!
+Nikita and string
+Restoring Permutation
+Alyona and a Narrow Fridge
+Shuffle
+Watermelon
+Lord of the Values
+Close Tuples (hard version)
+Sport Mafia
+Phoenix and Puzzle
+Lovely Palindromes
+New Year and Naming
+The Great Hero
+Binary Period
+Kefa and Park
+Drinks
+Plus from Picture
+Is your horseshoe on the other hoof?
+Vasya the Hipster
+Multiples and Power Differences
+k-Multiple Free Set
+Bandit in a City
+Police Recruits
+Codeforces Subsequences
+Math Problem
+Shurikens
+Fancy Fence
+Phoenix and Towers
+Binary String Reconstruction
+Circle Metro
+Number into Sequence
+Cards
+Devu, the Singer and Churu, the Joker
+Same Differences
+Perfect Team
+PIN Codes
+Ilya and a Colorful Walk
+Young Physicist
+Dreamoon Likes Permutations
+Bear and Big Brother
+Collecting Coins
+Reorder
+Next Round
+Character Swap (Easy Version)
+Candies and Two Sisters
+Xenia and Ringroad
+Gravity Flip
+Elephant
+Nezzar and Colorful Balls
+Polycarpus' Dice
+Dice Tower
+Trouble Sort
+Oh Those Palindromes
+Ehab Fails to Be Thanos
+Bogosort
+Shooting
+Even Odds
+Fadi and LCM
+Make Good
+Divisibility by Eight
+Searching Local Minimum
+Cyclic Permutations 
+Beautiful Matrix
+Bit++
+Maximum width
+Soldier and Bananas
+Space Navigation 
+Yet Another Array Restoration
+Ternary XOR
+Divisibility Problem
+Grade Allocation
+Fox And Snake
+Make It Good
+Guess the Number
+Football
+Friends and Candies
+Wrong Subtraction
+Raising Bacteria
+Design Tutorial: Learn from Math
+Predict Outcome of the Game
+Dijkstra?
+Stones
+I Wanna Be the Guy
+Cifera
+Alarm Clock
+Choosing Teams
+Presents
+Longest Simple Cycle
+Vasya and Petya's Game
+League of Leesins
+Ramesses and Corner Inversion
+Duff and Meat
+Special Permutation
+Nastya and Door
+Princesses and Princes
+Yet Another Tetris Problem
+Erasing Zeroes
+Non-zero
+Anton and Letters
+And Then There Were K
+Elimination
+Dreamoon and Ranking Collection
+Too Many Coins
+Fight with Monsters
+cAPS lOCK
+TV Subscriptions (Easy Version)
+Mishka and Game
+Perfectly Imperfect Array
+Mezo Playing Zoma
+A and B and Compilation Errors
+Hills And Valleys
+Arena
+Restoring Three Numbers
+Constanze's Machine
+Omkar and Completion
+Weakness and Poorness
+Mislove Has Lost an Array
+New Year Candles
+Forgetting Things
+Secret Passwords
+New Year and Hurry
+Train
+New Theatre Square
+Payment Without Change
+Dominated Subarray
+Ping-pong
+Ordinary Numbers
+Remainder
+Array Rearrangment
+Game With Sticks
+IQ test
+Division
+Modified GCD
+Puzzles
+Amusing Joke
+Balls Game
+There Are Two Types Of Burgers
+Secret Combination
+Johnny and His Hobbies
+Replacing Elements
+Nauuo and Votes
+Binary Search
+Anton and Digits
+Cave Painting
+GCD Length
+Heating
+Expression
+Sifid and Strange Subsequences
+Valeriy and Deque
+CopyCopyCopyCopyCopy
+Make Product Equal One
+Food Buying
+Phoenix and Socks
+Explorer Space
+Bad Prices
+Dragons
+Beautiful Year
+Ultra-Fast Mathematician
+Buy a Shovel
+Fix You
+Initial Bet
+Fence Painting
+Two-gram
+George and Accommodation
+Three swimmers
+Tanya and Postcard
+Box
+Team Olympiad
+Stone Game
+Powered Addition
+Drazil and Factorial
+String LCM
+Filling Shapes
+K for the Price of One (Easy Version)
+Sum of 2050
+Temporarily unavailable
+Creating a Character
+Sorted Adjacent Differences
+Social Network (easy version)
+Bachgold Problem
+Sereja and Dima
+Telephone Number
+The New Year: Meeting Friends
+Anton and Polyhedrons
+Lucky Permutation Triple
+Three Bags
+Business trip
+Increasing Matrix
+Adding Powers
+Duff in Love
+Park Lighting
+Sequence Transformation
+Construct the String
+Anti-Sudoku
+Bash's Big Day
+Specific Tastes of Andre 
+Keyboard
+Reverse Binary Strings
+Equation
+String Task
+Prefixes
+Hate "A"
+Array Reodering
+Palindromic Paths
+Three Strings
+Maximum Square
+Yet Another Two Integers Problem
+Morning Jogging
+Add Odd or Subtract Even
+Laptops
+HQ9+
+Classy Numbers
+Queue at the School
+Walking Robot
+Mahmoud and Ehab and the wrong algorithm
+A New Technique
+Social Network (hard version)
+Matrix Game
+Thanos Sort
+Epic Game
+Johnny and Ancient Computer
+Black Square
+Taxi
+Hamburgers
+Mahmoud and a Triangle
+Create The Teams
+Alice and Bob
+Sweet Problem
+Serval and Bus
+Dawid and Bags of Candies
+Theatre Square
+Colored Rooks
+Present from Lena
+Unique Bid Auction
+Knight Tournament
+Sum of Odd Integers
+Not Adjacent Matrix
+Buy the String
+Balls of Buma
+Berstagram
+Pens and Pencils
+Polycarp Training
+Building a Fence
+Nauuo and Chess
+Frog Jumps
+Trains
+I Hate 1111
+Knights
+Holiday Of Equality
+Broken Keyboard
+Vanya and Cubes
+Team
+AND 0, Sum Big
+Two Rabbits
+Bulls and Cows
+Dubious Cyrpto
+Fox Dividing Cheese
+Unstable String
+Juggling Letters
+A and B and Team Training
+Finding Sasuke
+Dubstep
+Berserk And Fireball
+Circle of Students
+Maximum in Table
+Add and Divide
+Assigning to Classes
+Number Circle
+AGAGA XOOORRR
+Flipping Game
+LCM Problem
+Add to Neighbour and Remove
+Magnets
+XOR Game
+Interesting drink
+Berland Poker
+Filling the Grid
+Shifting Stacks
+Game of Life
+Carrot Cakes
+T-primes
+Strange Functions
+New Year's Number
+Watchmen
+Perform Easily
+Pythagorean Triples
+Rooms and Staircases
+Ilya and Bank Account
+Median Smoothing
+Big Vova
+Queries on a String
+Sort the Array
+Case of the Zeros and Ones
+Zero Remainder Array
+Distinct Digits
+Combination Lock
+Dreamoon and Stairs
+Games
+In Search of an Easy Problem
+Magical Array
+Twins
+Minimum Product
+Eating Soup
+Preparation for International Women's Day
+Double Cola
+Phoenix and Gold
+They Are Everywhere
+Tit for Tat
+Restore the Permutation by Merger
+Sum of Medians
+Square Filling
+Three Indices
+Cat Cycle
+Queries about less or equal elements
+Kind Anton
+Inflation
+Middle Class
+Debate
+Alyona and mex
+Choose Two Numbers
+Olesya and Rodion
+Ilya and Queries
+Knapsack
+Magic Numbers
+Patrick and Shopping
+Vanya and Fence
+Card Deck
+Vanya and Lanterns
+Is it rated?
+Johnny and Another Rating Drop
+Buttons
+Lucky Division
+Wet Shark and Flowers
+Level Statistics
+Towers
+Brain's Photos
+Lecture
+Word
+Soldier and Cards
+Fridge Lockers
+Eastern Exhibition
+Fillomino 2
+Lunch Rush
+Devu and his Brother
+Anton and Danik
+Vasya and Socks
+Minimum Ties
+Word Capitalization
+Kill `Em All
+Ilya and Matrix
+Array with Odd Sum
+Translation
+Stones on the Table
+Balanced Bitstring
+Dreamoon and WiFi
+Two Rival Students
+Make It Equal
+The Child and Set
+Tritonic Iridescence
+Fast Food Restaurant
+Equalize Prices Again
+Domino piling
+Reading Books (easy version)
+Binary String To Subsequences
+A and B and Chess
+Cormen --- The Best Friend Of a Man
+Odd Divisor
+Multiples of Length
+Do Not Be Distracted!
+Mean Inequality
+Potions (Hard Version)
+Hulk
+Thor
+Changing Volume
+Mere Array
+Prime Square
+Magical Sticks
+Advertising Agency
+Single Push
+Worms
+Subset Mex
+Multiplication Table
+Jzzhu and Sequences
+BowWow and the Timetable
+I_love_\%username\%
+Kuroni and Impossible Calculation
+Tram
+Alice and Hairdresser
+String Similarity
+Kefa and First Steps
+Again Twenty Five!
+Marketing Scheme
+Multiply by 2, divide by 6
+Rotation Matching
+Caesar's Legions
+Divide and Sum
+Berland Regional
+Fair Playoff
+The Delivery Dilemma
+Required Remainder
+Replace and Keep Sorted
+Happy Birthday, Polycarp!
+XORinacci
+EhAb AnD gCd
+Caisa and Pylons
+Product 1 Modulo N
+Xor-tree
+Restorer Distance
+K-th Beautiful String
+String Equality
+Omkar and Last Class of Math
+Diverse Matrix
+Arranging The Sheep
+Shovels and Swords
+Longest Palindrome
+Books Exchange (easy version)
+Ahahahahahahahaha
+Magic Formulas
+Colorful Stones (Simplified Edition)
+Array and Peaks
+Eshag Loves Big Arrays
+Ternary String
+Silly Mistake
+Candies
+Deadline
+Angry Students
+Puzzle From the Future
+Little Artem
+Cheap Travel
+Nezzar and Lucky Number
+Free Ice Cream
+After Training
+Saving the City
+Ball in Berland
+Ania and Minimizing
+Power Sequence
+New Colony
+Bus to Udayland
+Maximal Continuous Rest
+The World is a Theatre
+K-divisible Sum
+Rewards
+Contest for Robots
+Everyone is a Winner!
+Juicer
+Calculating Function
+Balanced Array
+Two Teams Composing
+Pangram
+Road To Zero
+Nezzar and Symmetric Array
+Boy or Girl
+Maximum Sum of Products
+Balls and Boxes
+Universal Solution
+Minimal Height Tree
+Nearly Lucky Number
+Yet Another Card Deck
+Magic Stick
+Kids Seating
+Lineland Mail
+Photo of The Sky
+Omkar and Baseball
+RPG Protagonist
+Equal Rectangles
+Pashmak and Garden
+Maze
+Review Site
